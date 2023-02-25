@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 😄 I'm CS student and I’m currently working as a backend software engineer with Java technologies.<br>
 🌱 I’m currently try to improve into DSA and design patterns.<br>
 
-📫 Reach me on LinkedIn https://www.linkedin.com/in/michele-verriello-61505111b/
+📫 Reach me on: 
+  - LinkedIn: https://www.linkedin.com/in/michele-verriello-61505111b/
+  - e-mail: micverriello@gmail.com

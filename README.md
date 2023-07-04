@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-😄 I'm CS student and I’m currently working as a backend software engineer with Java technologies.<br>
+😄 I'm a software engineer and I’m currently working as a backend software engineer with Java technologies.<br>
 🌱 I’m currently try to improve into DSA and design patterns.<br>
 
 📫 Reach me on: 

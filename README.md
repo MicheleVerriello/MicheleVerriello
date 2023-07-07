@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 🌱 I’m currently try to improve into DSA and design patterns.<br>
 
 📫 Reach me on: 
-![Static Badge](https://img.shields.io/badge/Linkedin)
-
-
   - LinkedIn: https://www.linkedin.com/in/michele-verriello
   - e-mail: micverriello@gmail.com
 

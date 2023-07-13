@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 😄 I'm a software engineer and I’m currently working as a backend software engineer with Java technologies.<br>
-🌱 I’m currently try to improve into DSA and design patterns.<br>
+🌱 I’m currently trying to improve into DSA and design patterns.<br>
 
 ### Reach me on
 
@@ -26,7 +26,5 @@ Here are some ideas to get you started:
 <b>Email: </b> micverriello@gmail.com
 
 ### My Github Stats
-
-<a href="http://www.github.com/MicheleVerriello"><img src="https://github-readme-stats.vercel.app/api?username=MicheleVerriello&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&theme=transparent&show_icons=true"/></a>
 
 Feel free to ask me anything!!!

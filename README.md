@@ -26,5 +26,6 @@ Here are some ideas to get you started:
 <b>Email: </b> micverriello@gmail.com
 
 ### My Github Stats
+![Michele's GitHub stats](https://github-readme-stats.vercel.app/api?username=MicheleVerriello&theme=dark&show_icons=true)
 
 Feel free to ask me anything!!!

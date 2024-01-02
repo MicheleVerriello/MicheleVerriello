@@ -6,15 +6,18 @@ Software Engineer
 
 * 🌍  I'm based in Europe
 * ✉️  You can contact me at [micverriello@gmail.com](mailto:micverriello@gmail.com)
-* 🧠  I'm learning Spring Boot, Docker, AWS, Jenkins, Circle CI, Algorithms, and Data Structures
 * 🤝  I'm open to collaborating on interesting projects
 * 🤝  Feel free to ask me anything!!!
 
-
-<a href="https://www.github.com/MicheleVerriello" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/MicheleVerriello?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
+-----------------
+- <b>Programming Languages</b>: Java | C# | Python | C | Typescript | Kotlin.
+- <b>Databases</b>: PostgreSQL | MySQL | MongoDB | Redis | Firebase.
+- <b>Frameworks</b>: Spring Boot | .Net | Angular | Kotlin Mobile Multiplatform.
+- <b>Cloud</b>: AWS Elastic IP | AWS SNS | AWS EC2 | AWS Container Registry | AWS Grafana | AWS CloudWatch | Cloudflare | Azure Pipelines.
+- <b>Automation</b> Jenkins | GitHub Actions | Docker. 
+- <b>Tools</b>: Git | SVN | GitHub | Jira | SourceTree | CMake | Postman | Swagger | RabbitMQ | Kafka | Maven | Gradle.
+
 
 
 <p align="left">

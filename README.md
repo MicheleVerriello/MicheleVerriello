@@ -14,8 +14,8 @@ Software Engineer
 - <b>Programming Languages</b>: Java | C# | Python | C | Typescript | Kotlin | PHP.
 - <b>Databases</b>: PostgreSQL | MySQL | MongoDB | Redis | Firebase.
 - <b>Frameworks</b>: Spring Boot | .Net | Angular | Kotlin Mobile Multiplatform | Laravel.
-- <b>Cloud</b>: AWS Elastic IP | AWS SNS | AWS EC2 | AWS Container Registry | AWS Grafana | AWS CloudWatch | Cloudflare.
-- <b>Automation</b> Jenkins | GitHub Actions | Azure Pipelines | Docker. 
+- <b>Cloud</b>: AWS Elastic IP | AWS SNS | AWS EC2 | AWS Container Registry | AWS Grafana | AWS CloudWatch | Cloudflare | AWS EKS.
+- <b>Automation</b> Jenkins | GitHub Actions | Azure Pipelines | Docker | Kubernetes. 
 - <b>Tools</b>: Git | SVN | GitHub | Jira | SourceTree | CMake | Postman | Swagger | RabbitMQ | Kafka | Maven | Gradle.
 
 

@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Software Engineer | Machine Learning Engineer
 -----------------
 
-* 🌍  I'm based in Italy and in search for opportunities around Europe and US.
+* 🌍  I'm based in London.
 * ✉️  You can contact me at [micverriello@gmail.com](mailto:micverriello@gmail.com)
 * 🤝  Feel free to ask me anything!!!
 

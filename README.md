@@ -1,9 +1,6 @@
-Senior Software Engineer | Machine Learning Engineer
+Software & Machine Learning Engineer
 -----------------
-
-* 🌍  I'm based in Amsterdam.
 * ✉️  You can contact me at [micverriello@gmail.com](mailto:micverriello@gmail.com)
-* 🤝  Feel free to ask me anything!!!
 
 ### Skills
 -----------------
